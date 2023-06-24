@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Panhwar-hub/figmaToReact.git/static/css/main.23e695fb.css",
+    "main.js": "/Panhwar-hub/figmaToReact.git/static/js/main.79162290.js",
+    "index.html": "/Panhwar-hub/figmaToReact.git/index.html",
+    "main.23e695fb.css.map": "/Panhwar-hub/figmaToReact.git/static/css/main.23e695fb.css.map",
+    "main.79162290.js.map": "/Panhwar-hub/figmaToReact.git/static/js/main.79162290.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e695fb.css",
+    "static/js/main.79162290.js"
+  ]
+}
